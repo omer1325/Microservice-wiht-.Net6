@@ -28,7 +28,7 @@ builder.Services.AddAutoMapper(typeof(Program));
 
 builder.Services.AddControllers(opt =>
 {
-    //opt.Filters.Add(new AuthorizeFilter());
+    opt.Filters.Add(new AuthorizeFilter());
 });
 
 builder.Services.Configure<DatabaseSettings>(builder.Configuration.GetSection("DatabaseSettings"));
