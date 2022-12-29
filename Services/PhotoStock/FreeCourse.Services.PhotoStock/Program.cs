@@ -8,8 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
 {
     //Token dağıtmaktan görevli olan arkadaşı belirtiyoruz
-    options.Authority = "http://localhost:5001";
-    //builder.Configuration.GetConnectionString("IdentityServerUrl");
+    options.Authority = builder.Configuration.GetValue<string>("IdentityServerUrl");
     options.Audience = "resource_photo_stock";
     options.RequireHttpsMetadata = false;
 });

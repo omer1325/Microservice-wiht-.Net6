@@ -14,9 +14,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
 {
-//Token dağıtmaktan görevli olan arkadaşı belirtiyoruz
-    options.Authority = "http://localhost:5001";
-    //builder.Configuration.GetConnectionString("IdentityServerUrl");
+    //Token dağıtmaktan görevli olan arkadaşı belirtiyoruz
+    //options.Authority = "http://localhost:5001";
+    options.Authority = builder.Configuration.GetValue<string>("IdentityServerUrl");
     options.Audience = "resource_catalog";
     options.RequireHttpsMetadata = false;
 });
