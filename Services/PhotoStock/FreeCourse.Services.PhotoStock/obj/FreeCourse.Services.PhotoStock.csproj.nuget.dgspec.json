@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omer\\source\\repos\\Microservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj": {}
+    "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omer\\source\\repos\\Microservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj": {
+    "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omer\\source\\repos\\Microservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj",
+        "projectUniqueName": "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj",
         "projectName": "FreeCourse.Services.PhotoStock",
-        "projectPath": "C:\\Users\\omer\\source\\repos\\Microservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj",
+        "projectPath": "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj",
         "packagesPath": "C:\\Users\\omer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omer\\source\\repos\\Microservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\obj\\",
+        "outputPath": "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\omer\\source\\repos\\Microservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
-                "projectPath": "C:\\Users\\omer\\source\\repos\\Microservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj"
+              "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
+                "projectPath": "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\omer\\source\\repos\\Microservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
+    "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omer\\source\\repos\\Microservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
         "projectName": "FreeCourse.Shared",
-        "projectPath": "C:\\Users\\omer\\source\\repos\\Microservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+        "projectPath": "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
         "packagesPath": "C:\\Users\\omer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omer\\source\\repos\\Microservices\\Shared\\FreeCourse.Shared\\obj\\",
+        "outputPath": "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

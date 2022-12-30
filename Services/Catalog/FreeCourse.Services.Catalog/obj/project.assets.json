@@ -1694,11 +1694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omer\\source\\repos\\Microservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj",
+      "projectUniqueName": "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj",
       "projectName": "FreeCourse.Services.Catalog",
-      "projectPath": "C:\\Users\\omer\\source\\repos\\Microservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj",
+      "projectPath": "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj",
       "packagesPath": "C:\\Users\\omer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omer\\source\\repos\\Microservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\obj\\",
+      "outputPath": "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1720,8 +1720,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\omer\\source\\repos\\Microservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
-              "projectPath": "C:\\Users\\omer\\source\\repos\\Microservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj"
+            "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
+              "projectPath": "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj"
             }
           }
         }

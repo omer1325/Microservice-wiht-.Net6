@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3eq8zfjWzdfjyV/tabXg5j3d4s0HATQl8su2zSRL+BifLLNIwcfBHgST1prkuaBLtht/oERNN6DNjc9i4xuSzQ==",
+  "dgSpecHash": "m0VXd7I2QSPhEfJEYwI2nvRYJnA4UcNTU5rnQUWxevFfozUE5zDH8jYmCTj7ubFgwGA3T1locOCqY31HRyW1zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\omer\\source\\repos\\Microservices\\Services\\Discount\\FreeCourse.Services.Discount\\FreeCourse.Services.Discount.csproj",
+  "projectFilePath": "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Services\\Discount\\FreeCourse.Services.Discount\\FreeCourse.Services.Discount.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omer\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\omer\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",

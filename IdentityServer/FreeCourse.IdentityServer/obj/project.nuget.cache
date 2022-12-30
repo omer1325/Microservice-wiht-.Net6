@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oyqPB0ZRmuOfSY9ylFwgrDcUTYhmUXq9Vd7R9NE+3465qc83BA+S8dWWioVmCv5J6gSVnzN/ObhutgM/opE5aQ==",
+  "dgSpecHash": "wlm+Mqfo9j9zJcR00HuNOjubK07rcWlAPFcgqErXwYL+Y5uf8ErgnW6TA0YnWGwzWGepNtZcABR2rcOgRAdfDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\omer\\source\\repos\\Microservices\\IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj",
+  "projectFilePath": "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omer\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
     "C:\\Users\\omer\\.nuget\\packages\\identityserver4\\4.0.0\\identityserver4.4.0.0.nupkg.sha512",

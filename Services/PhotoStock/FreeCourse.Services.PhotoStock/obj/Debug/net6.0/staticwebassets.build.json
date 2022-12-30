@@ -1,19 +1,11 @@
 {
   "Version": 1,
-  "Hash": "6iHgerCEqUrmR9BxUbDfB68VU4oPIxNLEeMRdK1UP3o=",
+  "Hash": "AafiRTbRfZmTwGMTyoIu+/UVtHMtCR9G2nBv+RW04t0=",
   "Source": "FreeCourse.Services.PhotoStock",
   "BasePath": "_content/FreeCourse.Services.PhotoStock",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [
-    {
-      "Name": "FreeCourse.Services.PhotoStock\\wwwroot",
-      "Source": "FreeCourse.Services.PhotoStock",
-      "ContentRoot": "C:\\Users\\omer\\source\\repos\\Microservices\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\wwwroot\\",
-      "BasePath": "_content/FreeCourse.Services.PhotoStock",
-      "Pattern": "**"
-    }
-  ],
+  "DiscoveryPatterns": [],
   "Assets": []
 }

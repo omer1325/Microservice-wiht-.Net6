@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jBwvfVYSacdyjAiZtTmbYN9JT72wUnpo7ahc9c6IFe+kcgxcIuMpf/xdjBJeOVDtHtxNp1bQjWGai5/7OPyRNQ==",
+  "dgSpecHash": "4w1iW5jgyu0U3QEn0pLUx8OOIoALdU6MwjaX8uV053MRmXJcxrHCWunAoKsfoPnTtie0OP3cSsv4C0P1lR1yKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\omer\\source\\repos\\Microservices\\Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj",
+  "projectFilePath": "C:\\Users\\omer\\Desktop\\New folder\\UdemyMicroservices\\Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omer\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.12\\microsoft.aspnetcore.authentication.jwtbearer.6.0.12.nupkg.sha512",
     "C:\\Users\\omer\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
