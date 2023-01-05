@@ -5,4 +5,5 @@ Services
 	-discountAPI => 5014
 	-orderAPI => 5015
 	-fakePaymentAPI => 5016
--IdentityServer => 5001
+IdentityServer => 5001
+Gateway => 5000

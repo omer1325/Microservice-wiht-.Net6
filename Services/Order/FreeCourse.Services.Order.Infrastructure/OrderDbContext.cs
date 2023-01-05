@@ -20,6 +20,7 @@ namespace FreeCourse.Services.Order.Infrastructure
             modelBuilder.Entity<Domain.OrderAggregate.OrderItem>().ToTable("OrderItems", DEFAULT_SCHEMA);
 
             modelBuilder.Entity<Domain.OrderAggregate.OrderItem>().Property(x => x.Price).HasColumnType("decimal(18,2)");
+            //Address sınıfı OWNED Type olarak belirtiyoruz
             modelBuilder.Entity<Domain.OrderAggregate.Order>().OwnsOne(o => o.Address).WithOwner();
 
             base.OnModelCreating(modelBuilder);
