@@ -1,7 +1,10 @@
 
+using Microsoft.Extensions.Configuration;
 using Ocelot.DependencyInjection;
 using Ocelot.Middleware;
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Configuration.AddJsonFile("configuration.development.json");
 
 builder.Services.AddAuthentication().AddJwtBearer("GatewayAuthenticationScheme", options =>
 {
