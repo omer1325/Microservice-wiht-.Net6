@@ -81,3 +81,4 @@ C:\Users\omer\Desktop\New folder\UdemyMicroservices\Services\PhotoStock\FreeCour
 C:\Users\omer\Desktop\New folder\UdemyMicroservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\obj\Debug\net6.0\FreeCourse.Services.PhotoStock.pdb
 C:\Users\omer\Desktop\New folder\UdemyMicroservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\obj\Debug\net6.0\FreeCourse.Services.PhotoStock.genruntimeconfig.cache
 C:\Users\omer\Desktop\New folder\UdemyMicroservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\obj\Debug\net6.0\ref\FreeCourse.Services.PhotoStock.dll
+C:\Users\omer\Desktop\New folder\UdemyMicroservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\bin\Debug\net6.0\FreeCourse.Services.PhotoStock.staticwebassets.runtime.json
